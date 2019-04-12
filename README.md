@@ -6,7 +6,6 @@
 - Relational Databases
 - Knex migrations.
 - Seeding data.
-
 ## Assignment
 
 Build an API that persists data to SQLite3.
